@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy estudiante de Ingeniería en Computación con un interés profundo en el desarrollo web y el aprendizaje de nuevos idiomas, actualmente cursando alemán. Tengo experiencia en JavaScript, especialmente en React y React Native, así como un conocimiento general de Python y Java. Estoy buscando colaborar en proyectos que me permitan ganar experiencia práctica. Actualmente, trabajo de manera independiente en el desarrollo de páginas web para personas. Además, estoy aprendiendo sobre machine learning e inteligencia artificial utilizando Python.
+I'm a Computer Engineering student with a big passion for web development and languages—I'm currently learning German. I've dabbled in JavaScript, mostly with React and React Native, and also have some experience with Python, Java, and C++. Right now, I'm freelancing in web development focused on real user needs, and I'm starting to explore machine learning and AI with Python. I'm always looking for fun projects to learn new things and collaborate with others.
 
 
 ## 🌐 Socials:
