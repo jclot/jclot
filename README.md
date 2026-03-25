@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Engineering student with a big passion for web development and languages—I'm currently learning German. I've dabbled in JavaScript, mostly with React and React Native, and also have some experience with Python, Java, and C++. Right now, I'm freelancing in web development focused on real user needs, and I'm starting to explore machine learning and AI with Python. I'm always looking for fun projects to learn new things and collaborate with others.
+I'm a Computer Engineering with a big passion for web development and languages—I'm currently learning German. I've dabbled in JavaScript, mostly with React and React Native, and also have some experience with Python, Java, and C++. Right now, I'm freelancing in web development focused on real user needs, and I'm starting to explore machine learning and AI with Python. I'm always looking for fun projects to learn new things and collaborate with others.
 
 
 ## 🌐 Socials:
