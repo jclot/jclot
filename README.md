@@ -1,22 +1,41 @@
-# 💫 About Me:
-I'm a Computer Engineering with a big passion for web development and languages—I'm currently learning German. I've dabbled in JavaScript, mostly with React and React Native, and also have some experience with Python, Java, and C++. Right now, I'm freelancing in web development focused on real user needs, and I'm starting to explore machine learning and AI with Python. I'm always looking for fun projects to learn new things and collaborate with others.
+# About Me
 
+I am Julian Clot Córdoba, a Computer Systems Engineering. I am passionate about technology, continuous learning, and building efficient, real-world solutions.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juli_clot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JulianClot) 
+Currently, I work as a Freelance Web Developer. I recently developed a comprehensive system for Clínica Rajem using Java, Spring Boot, and Thymeleaf. I pride myself on having a strong team-oriented mindset and a highly responsible, proactive attitude. I thrive in Agile collaborative environments (Scrum Fundamentals Certified) and excel at aligning user requirements with technical feasibility, always maintaining clear and direct communication with clients to translate business needs into robust architectures.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jclot&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+In the realm of frontend and mobile development, I have practical experience building modern, user-centric interfaces using **React** and **React Native**. My recent projects include **ZonaPediatrica**, a dedicated web platform developed for a pediatric clinic, and **NapsMobile**, a mobile application that utilizes the device's camera to allow users to virtually try on accessories like glasses and hats in real-time.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jclot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I also have a strong focus on systems programming and low-level architecture. I am actively developing my own operating systems: **grantOS** (built from scratch with a custom kernel) and **grant-linux** (an Arch-based distribution). Alongside this, I am designing and documenting my own programming language, **ClotLang**.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jclot&limit=5&theme=dark&combine_all_yearly_contributions=true)
+In the field of data analysis and artificial intelligence, I am developing **ClotCor**, a project focused on extracting statistical and criminal data from the Judicial Investigation Organization (OIJ) of Costa Rica. This system is designed to analyze data patterns and generate predictive models for crime rates across different geographical zones using probability calculations.
 
----
-[![](https://visitcount.itsvg.in/api?id=jclot&icon=0&color=0)](https://visitcount.itsvg.in)
+Beyond my experience with Java, C++, Python, .NET, and JavaScript frameworks, I possess a solid background in networking (CCNA and IoT training) and cybersecurity techniques. I am currently learning German (A2) and am fluent in English (C1).
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juli_clot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JulianClot) [![Clínica Rajem](https://img.shields.io/badge/Cl%C3%ADnica_Rajem-Project-%23000000?style=flat&logo=google-chrome&logoColor=white)](https://www.clinicarajem.com/)
+
+# Tech Stack & Tools
+
+### Backend & Architecture
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases & Networking
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+### Frontend & Mobile
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Methodologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-2C9EBA?style=for-the-badge&logo=scrumalliance&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+# GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jclot&theme=dark&show_icons=false&hide_border=false&include_all_commits=true&count_private=true" alt="Jclot's GitHub Stats" />
+</div>
+<br/>
+
+### Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclot&layout=compact&theme=dark&hide_border=false" alt="Jclot's Top Languages" />
+</div>
