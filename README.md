@@ -1,6 +1,6 @@
 # About Me
 
-I am Julian Clot Córdoba, a Computer Systems Engineering. I am passionate about technology, continuous learning, and building efficient, real-world solutions.
+I am Julian Clot Córdoba, a Computer Systems Engineering. I am passionate about technology, and building efficient, real-world solutions.
 
 Currently, I work as a Freelance Web Developer. I recently developed a comprehensive system for Clínica Rajem using Java, Spring Boot, and Thymeleaf. I pride myself on having a strong team-oriented mindset and a highly responsible, proactive attitude. I thrive in Agile collaborative environments (Scrum Fundamentals Certified) and excel at aligning user requirements with technical feasibility, always maintaining clear and direct communication with clients to translate business needs into robust architectures.
 
@@ -10,7 +10,7 @@ I also have a strong focus on systems programming and low-level architecture. I 
 
 In the field of data analysis and artificial intelligence, I am developing **ClotCor**, a project focused on extracting statistical and criminal data from the Judicial Investigation Organization (OIJ) of Costa Rica. This system is designed to analyze data patterns and generate predictive models for crime rates across different geographical zones using probability calculations.
 
-Beyond my experience with Java, C++, Python, .NET, and JavaScript frameworks, I possess a solid background in networking (CCNA and IoT training) and cybersecurity techniques. I am currently learning German (A2) and am fluent in English (C1).
+Beyond my experience with Java, C++, Python, .NET, and JavaScript frameworks, I have a solid background in networking (CCNA and IoT training) and cybersecurity techniques. I have German proficiency at an A2 level and am fluent in English (C1).
 
 ## Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juli_clot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JulianClot) [![Clínica Rajem](https://img.shields.io/badge/Cl%C3%ADnica_Rajem-Project-%23000000?style=flat&logo=google-chrome&logoColor=white)](https://www.clinicarajem.com/)
