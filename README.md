@@ -1,6 +1,6 @@
 # About Me
 
-I am Julian Clot Córdoba, a Computer Systems Engineering. I am passionate about technology, and building efficient, real-world solutions.
+I am Julian Clot Córdoba, a Computer Engineering. I am passionate about technology, and building efficient, real-world solutions.
 
 Currently, I work as a Freelance Web Developer. I recently developed a comprehensive system for Clínica Rajem using Java, Spring Boot, and Thymeleaf. I pride myself on having a strong team-oriented mindset and a highly responsible, proactive attitude. I thrive in Agile collaborative environments (Scrum Fundamentals Certified) and excel at aligning user requirements with technical feasibility, always maintaining clear and direct communication with clients to translate business needs into robust architectures.
 
