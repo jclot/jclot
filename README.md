@@ -28,14 +28,3 @@ Beyond my experience with Java, C++, Python, .NET, and JavaScript frameworks, I 
 
 ### Tools & Methodologies
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-2C9EBA?style=for-the-badge&logo=scrumalliance&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-# GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jclot&theme=dark&show_icons=false&hide_border=false&include_all_commits=true&count_private=true" alt="Jclot's GitHub Stats" />
-</div>
-<br/>
-
-### Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclot&layout=compact&theme=dark&hide_border=false" alt="Jclot's Top Languages" />
-</div>
